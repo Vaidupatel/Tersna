@@ -1,24 +1,29 @@
-<br><br>
+<!-- =====================================================
+ TERSNA — VOICE-FIRST EDITORIAL LANDING
+ Font intent: Epetri (wordmark emphasis)
+ Tone: Calm, thoughtful, philosophical
+===================================================== -->
+
+<br><br><br>
 
 <p align="center">
-  <small>Tersna</small><br>
   <small>Building voice-first AI agents for real businesses</small>
 </p>
 
-<br>
+<br><br>
 
 <h1 align="center">
-  AI that can listen,<br>
-  understand,<br>
-  and respond.
+  Tersna
 </h1>
 
 <br>
 
 <p align="center">
-  Tersna is building a voice AI agent that understands your data,<br>
-  speaks with your customers,<br>
-  and connects directly to your systems.
+  <em>
+    A voice interface between your knowledge,<br>
+    your systems,<br>
+    and the people who rely on them.
+  </em>
 </p>
 
 <br><br>
