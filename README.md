@@ -1,24 +1,27 @@
 <!-- =====================================================
- TERSNA — VOICE-FIRST EDITORIAL LANDING
- Font intent: Epetri (wordmark emphasis)
- Tone: Calm, thoughtful, philosophical
+ TERSNA — VOICE-FIRST EDITORIAL LANDING (DARK)
+ Font intent: Epetri
+ Theme: Voice in the Dark
+ Tone: Calm, thoughtful, authoritative
 ===================================================== -->
 
-<br><br><br>
+<div style="background:#121211; color:#EDEDE8; padding:64px 24px;">
 
-<p align="center">
+<br><br>
+
+<p align="center" style="color:#A0A09A;">
   <small>Building voice-first AI agents for real businesses</small>
 </p>
 
 <br><br>
 
-<h1 align="center">
+<h1 align="center" style="font-weight:400; letter-spacing:0.04em;">
   Tersna
 </h1>
 
 <br>
 
-<p align="center">
+<p align="center" style="color:#EDEDE8;">
   <em>
     A voice interface between your knowledge,<br>
     your systems,<br>
@@ -29,28 +32,28 @@
 <br><br>
 
 <p align="center">
-  <strong>● Request Early Access</strong>
+  <strong style="color:#D1A24A;">● Request Early Access</strong>
   &nbsp;&nbsp;&nbsp;
-  <span>Learn more ↓</span>
+  <span style="color:#A0A09A;">Learn more ↓</span>
 </p>
 
 <br><br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
-<p align="center">
+<p align="center" style="color:#A0A09A;">
   <em>
     Before voice,<br>
-    we are starting with something simpler -<br>
+    we are starting with something simpler —<br>
     and already useful.
   </em>
 </p>
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -65,15 +68,14 @@ and the people who interact with them.
 
 <br>
 
-Instead of isolated chatbots or rigid workflows,  
-Tersna focuses on AI agents that can  
-understand context,  
-communicate naturally,  
+It is not a chatbot in isolation.  
+It is an agent designed to understand context,  
+respond with clarity,  
 and eventually take action on your behalf.
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -81,18 +83,19 @@ and eventually take action on your behalf.
 
 <br>
 
-Tersna is built for founders and teams who want to use AI  
+Tersna is built for founders and product teams  
+who want the benefits of AI  
 without becoming AI experts.
 
 <br>
 
-It is for organizations with valuable information locked in documents.  
-For products that already expose APIs but lack a conversational layer.  
-For teams operating across languages and regions.
+It is for organizations whose answers already exist —  
+in documents, internal tools, and APIs —  
+but remain difficult to access or scale.
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -100,24 +103,24 @@ For teams operating across languages and regions.
 
 <br>
 
-Most organizations already have the answers their users need.  
-Those answers live in files, systems, and databases.
+Most businesses do not lack information.  
+They lack a way to surface it naturally.
 
 <br>
 
-The problem is not intelligence.  
-The problem is access.
+Knowledge lives in files.  
+Processes live in systems.  
+Users live elsewhere.
 
 <br>
 
-Tersna makes your existing knowledge and systems  
-usable through natural conversation -  
+Tersna connects these pieces through conversation —  
 first through text,  
-and then through voice.
+then through voice.
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -125,51 +128,45 @@ and then through voice.
 
 <br>
 
-Tersna does not treat AI as a black box.
+Tersna is built on restraint.
 
 <br>
 
 Your data remains private.  
-Your systems stay in control.  
-The AI operates within clear boundaries,  
-guided by context and intent -  
-not generic training data.
+Your systems remain authoritative.  
+The AI operates within clear boundaries.
 
 <br>
 
-This is not an internet-trained chatbot.  
-It is an agent grounded in your reality.
+This is not a model trained to sound confident.  
+It is an agent designed to be correct, calm, and contextual.
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
-## What happens next?
+## How Tersna evolves
 
 <br>
 
-Tersna is rolling out in deliberate phases.
+<strong>Phase 1</strong> — Text-based AI assistants (available today)  
+<strong>Phase 2</strong> — Agents that interact with your APIs  
+<strong>Phase 3</strong> — Voice-based AI agents that listen, speak, and act  
 
 <br>
 
-**Phase 1** — Text-based AI assistants (available today)  
-**Phase 2** — API-connected actions  
-**Phase 3** — Voice-based AI agents
-
-<br>
-
-Each phase builds on the previous one,  
+Each phase builds deliberately,  
 without forcing migration or re-architecture.
 
 <br><br>
 
-<strong>● Request Early Access</strong>
+<strong style="color:#D1A24A;">● Request Early Access</strong>
 
 <br><br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -179,21 +176,21 @@ without forcing migration or re-architecture.
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
-# Tersna Chatbot - Available Now
+# Tersna Chatbot — Available Now
 
 <br>
 
 Upload your documents.  
-Ask questions.  
-Receive accurate, contextual answers.
+Ask questions in natural language.  
+Receive accurate answers grounded in your data.
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -201,17 +198,17 @@ Receive accurate, contextual answers.
 
 <br>
 
-● Upload documents or URLs
-│
-● Tersna securely processes and understands your content
-│
-● The AI answers questions using your data
-│
-● Deploy it where your users already are
+● Upload documents or URLs  
+│  
+● Tersna understands your content  
+│  
+● Answers are generated using your data only  
+│  
+● Deploy where your users already are  
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -220,15 +217,15 @@ Receive accurate, contextual answers.
 <br>
 
 |                     |                          |
-| ------------------- | ------------------------ |
+|---------------------|--------------------------|
 | **Time to start**   | Minutes                  |
-| **Required skills** | None                     |
-| **Content types**   | Documents, text, URLs    |
-| **Languages**       | English, Hindi, Gujarati |
+| **Required skills**| None                     |
+| **Content types**  | Documents, text, URLs    |
+| **Languages**      | English, Hindi, Gujarati |
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
@@ -236,36 +233,38 @@ Receive accurate, contextual answers.
 
 <br>
 
-- Customer support assistants
-- Internal knowledge tools
-- Booking and inquiry automation
-- Educational and spiritual organizations
+- Customer support assistants  
+- Internal knowledge tools  
+- Booking and inquiry automation  
+- Educational and spiritual organizations  
 
 <br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
 <p align="center">
-  <strong>● Start with the Chatbot</strong>
+  <strong style="color:#D1A24A;">● Start with the Chatbot</strong>
 </p>
 
 <br><br><br>
 
----
+<hr style="border:none; border-top:1px solid #2A2A27;" />
 
 <br><br>
 
 <p align="center">
   <strong>Tersna</strong><br>
-  AI interfaces for real - world systems.
+  <span style="color:#A0A09A;">AI interfaces for real-world systems.</span>
 </p>
 
 <br>
 
-<p align="center">
+<p align="center" style="color:#A0A09A;">
   Privacy &nbsp;&nbsp; Terms &nbsp;&nbsp; Contact
 </p>
 
 <br><br>
+
+</div>
